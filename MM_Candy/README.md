@@ -11,7 +11,7 @@ Data files containing information about the colour distribution of *M&M Milk Cho
 
 A comma separated values spreadsheet with 288 rows and 6 variables in tidy format:
 
-**package**
+**pkg**
 
 - Package identifier. Each of the 48 packages come from a single case of 48 total packages.
 
@@ -23,17 +23,21 @@ A comma separated values spreadsheet with 288 rows and 6 variables in tidy forma
 
 - Year data was collected.
 
-**colour**
+**col**
 
 - M&M colour.
+
+**qty**
+
+- Candy count.
 
 **exp_col_prop**
 
 - Expected proportion of a given colour according to the values Josh Madison obtained from the official M&M website.
 
-**quantity**
+**exp_col_prop**
 
-- Candy count.
+- Expected quantity of M&Ms given ```exp_col_prop``` and the number of candies in a package. 
 
 <br>
 <br>
@@ -42,7 +46,7 @@ A comma separated values spreadsheet with 288 rows and 6 variables in tidy forma
 
 A comma separated values spreadsheet with 48 rows and 9 variables in wide format:
 
-**package**
+**pkg**
 
 - Package identifier. Each of the 48 packages come from a single case of 48 total packages.
 
