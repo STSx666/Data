@@ -4,7 +4,7 @@ Data files containing information about the colour distribution of *M&M Milk Cho
 
 ## Format
 
-### MM_Madison_tidy.csv
+### **MM_Madison_tidy.csv**
 
 A comma separated values spreadsheet with 288 rows and 6 variables in tidy format:
 
@@ -32,9 +32,10 @@ A comma separated values spreadsheet with 288 rows and 6 variables in tidy forma
 
 - Candy count.
 
+<br>
+<br>
 
-
-### MM_Madison_wide.csv
+### **MM_Madison_wide.csv**
 
 A comma separated values spreadsheet with 48 rows and 9 variables in wide format:
 
