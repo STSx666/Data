@@ -5,7 +5,7 @@ Data files containing information about the colour distribution of *M&M Milk Cho
 <br>
 <br>
 
-## Format
+# Format
 
 ### **MM_Madison_tidy.csv**
 
@@ -61,7 +61,7 @@ A comma separated values spreadsheet with 48 rows and 9 variables in wide format
 <br>
 <br>
 
-## Source
+# Source
 
 https://joshmadison.com/2007/12/02/mms-color-distribution-analysis/
 
