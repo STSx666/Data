@@ -2,6 +2,9 @@
 
 Data files containing information about the colour distribution of *M&M Milk Chocolate candies* sampled by Josh Madison.
 
+<br>
+<br>
+
 ## Format
 
 ### **MM_Madison_tidy.csv**
@@ -55,6 +58,8 @@ A comma separated values spreadsheet with 48 rows and 9 variables in wide format
 
 - Candy count of each respective colour.
 
+<br>
+<br>
 
 ## Source
 
