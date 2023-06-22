@@ -35,7 +35,7 @@ A comma separated values spreadsheet with 288 rows and 6 variables in tidy forma
 
 - Expected proportion of a given colour according to the values Josh Madison obtained from the official M&M website.
 
-**exp_col_prop**
+**exp_col_qty**
 
 - Expected quantity of M&Ms given ```exp_col_prop``` and the number of candies in a package. 
 
