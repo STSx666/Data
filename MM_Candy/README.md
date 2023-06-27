@@ -7,9 +7,9 @@ Data files containing information about the colour distribution of *M&M Milk Cho
 
 # Format
 
-### **MM_Madison_tidy.csv**
+### **MM_Madison_tidy.csv/tsv**
 
-A comma separated values spreadsheet with 288 rows and 6 variables in tidy format:
+A comma/tab separated values spreadsheet with 288 rows and 6 variables in tidy format:
 
 **pkg**
 
